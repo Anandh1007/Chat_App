@@ -19,3 +19,6 @@ The backend of the application is powered by Node.js using the built-in ⁠ ws
 The frontend consists of a clean and minimalistic chat interface built with HTML, CSS, and JavaScript. Messages are dynamically appended to the chat window, with the newest messages always visible thanks to automatic scrolling. The app handles WebSocket events such as connection, disconnection, and message reception smoothly, providing a responsive and interactive user experience.
 This chat app serves as a foundational real-time communication system and can be extended with features such as typing indicators, private messaging, message history, user avatars, or even database integration to persist messages. It is also a great starting point for deploying full-stack applications that require real-time functionality, such as customer support platforms, multiplayer games, or collaborative tools.
 Overall, this project demonstrates core concepts of Real-time web development, including event-driven programming, socket communication, and full-stack integration. It is ideal for showcasing skills in frontend and backend development, especially for beginner to intermediate developers aiming to strengthen their understanding of WebSocket technology and live client-server interactions.
+
+#OUTPUT:
+https://github.com/Anandh1007/Chat_App/issues/1#issue-2986222813
